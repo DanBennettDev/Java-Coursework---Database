@@ -1,0 +1,21 @@
+ TODO
+
+ Add foreign key
+ Allow adding field to table with records (add to each record...)
+
+ on load - get largest key
+
+
+ Cache
+ - on request data, load tables to cache from file
+ - check if dataset in cache before you use it
+ - store results there too
+ - calc no of bytes in table and add to tally
+
+ * select unique
+ * insert a record (incomplete set)
+ * make so that
+
+
+ OTHER:
+ * set specific print behaviours per type
